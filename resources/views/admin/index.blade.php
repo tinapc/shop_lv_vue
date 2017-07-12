@@ -13,8 +13,7 @@
     <body>
 
         <div id="app">
-            <example></example>
-            
+                    
             <div class="container">
                 <product-list table-title="Products List"></product-list>
             </div>
