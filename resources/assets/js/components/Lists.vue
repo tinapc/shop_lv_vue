@@ -51,10 +51,9 @@
 </template>
 
 <script>
-    Vue.component('ProductEdit', require('./ProductEdit.vue'))
+    Vue.component('ProductEdit', require('./ProductEdit.vue'));
     export default {
         mounted() {
-            console.log('Products list was mounted')
         },
         data() {
            return {
